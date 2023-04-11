@@ -1,1 +1,1 @@
-# HUF-collection
+# HUFcollection
